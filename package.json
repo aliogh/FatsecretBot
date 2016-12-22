@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/aliogh/FatsecretBot#readme",
   "dependencies": {
+    "mfp": "^0.5.6",
     "telegraf": "^3.6.2"
   }
 }
